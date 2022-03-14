@@ -9,7 +9,7 @@ Once this has been installed, download [this file](https://github.com/qcuincy/MD
 Once the folder is extracted, do the following steps:
 
 # (a) Switch to use python instead of Java
-![See here...](https://ibb.co/f4JZJwR)
+![See here...](https://i.ibb.co/nzp4pJ2/2022-03-14-16-52-00.png)
 ![... and here](https://ibb.co/xXSqvwd)
 
 # (b) Open the sketch file
