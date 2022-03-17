@@ -9,12 +9,12 @@ Once this has been installed, download [this file](https://github.com/qcuincy/MD
 ## (2) Run the sketch
 Once the folder is extracted, do the following steps:
 
-# (a) Switch to use python instead of Java
+### (a) Switch to use python instead of Java
 ![See here...](https://i.ibb.co/nzp4pJ2/2022-03-14-16-52-00.png)
 ![... and here](https://i.ibb.co/GnvQwGN/2022-03-14-16-52-32.png)
 
-# (b) Open the sketch file
+### (b) Open the sketch file
 ![See here...](https://i.ibb.co/MVRb24H/2022-03-14-16-59-38.png)
 ![... and here](https://i.ibb.co/QFHzxnN/2022-03-14-16-59-56.png)
 
-# (c) Click play button to run the model
+### (c) Click play button to run the model
